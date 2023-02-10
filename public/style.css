@@ -12,7 +12,7 @@ body {
   display:flex;
   justify-content:center;
   align-items:center;
-  color:white;
+  color:rgb(143, 142, 142);
 }
 
 article {
@@ -156,7 +156,7 @@ svg {
   width:100%;
   background: linear-gradient(0deg, rgb(246, 174, 8) 10%, rgb(255, 0, 0));
   display:grid;
-  height:35vh;
+  height:50vh;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 10px;
   grid-auto-rows: minmax(100px, auto);
@@ -241,7 +241,7 @@ p {
 }
 
 article > p {
-  padding:2rem 1rem;
+  padding: 0rem 1rem;
   margin-top: 0;
   background:rgb(0, 0, 0);
   color:white;
