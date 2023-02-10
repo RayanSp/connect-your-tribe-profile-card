@@ -241,7 +241,7 @@ p {
 }
 
 article > p {
-  padding: 0rem 1rem;
+  padding: 1rem 1rem;
   margin-top: 0;
   background:rgb(0, 0, 0);
   color:white;
