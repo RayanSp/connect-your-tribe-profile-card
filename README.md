@@ -1,7 +1,5 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Visitekaartje gebouwd met NodeJS en Json
 
 ## Inhoudsopgave
 
@@ -12,19 +10,25 @@
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+# Visitekaartje🃏
+
+<img width="492" alt="Schermafbeelding 2023-02-14 om 10 19 14" src="https://user-images.githubusercontent.com/112861069/218691624-d07b5548-b5dd-4f5a-a9d4-a802b889f27d.png">
+
+
+## Beschrijving📝
+In mijn visitekaartje heb ik een aantal foto's gebruikt. Zo zie je een foto van mij wanneer ik aan het tennissen ben, wat 1 van mijn hobby's is. Verder zijn er nog 3 foto's gebruikt en heb ik een quote in de footer gezet die mij wel aansprak toen ik die tegen kwam. 
+
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+Ik heb mijn visitekaartje herbouwd, dit keer heb ik dit gedaan met Node en heb ik API's gebruikt. Mijn HTML code uit mijn vorige visitekaartje heb ik geimplementeerd in 3 ejs bestanden. Namelijk, een header, index en footer. 
 
-## Installatie
+Nadat ik de vragenlijst van whoisfdnd had ingevuld, kon ik dmv Json de data gebruiken in mijn visitekaartje. Deze data werd uit een soort database gehaald. 
 
-## Gebruik
 
-## Bronnen
+## Installatie💻
+
+Voor deze opdracht heb ik node geinstalleerd. 
+
 
 ## Licentie
 
