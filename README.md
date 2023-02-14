@@ -17,7 +17,7 @@ Visitekaartje gebouwd met NodeJS en Json
 
 ## Beschrijving📝
 In mijn visitekaartje heb ik een aantal foto's gebruikt. Zo zie je een foto van mij wanneer ik aan het tennissen ben, wat 1 van mijn hobby's is. Verder zijn er nog 3 foto's gebruikt en heb ik een quote in de footer gezet die mij wel aansprak toen ik die tegen kwam. 
-
+https://dead-cyan-pelican-tam.cyclic.app/ 
 
 ## Kenmerken
 Ik heb mijn visitekaartje herbouwd, dit keer heb ik dit gedaan met Node en heb ik API's gebruikt. Mijn HTML code uit mijn vorige visitekaartje heb ik geimplementeerd in 3 ejs bestanden. Namelijk, een header, index en footer. 
